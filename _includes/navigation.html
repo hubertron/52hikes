@@ -64,6 +64,13 @@
         </a>
       </li>
     {% endif %}
+    {% if site.social.alltrails %}
+      <li>
+        <a href="http://www.alltrails.com/explore/{{ site.social.alltrails }}/recordings" title="All Trails">
+          <span class="icon icon-bonfire"></span>
+        </a>
+      </li>
+    {% endif %}
     {% if site.rss_enabled == true %}
       <li>
         <a href="{{ 'feed.xml' | relative_url }}" target="_blank" title="RSS">
