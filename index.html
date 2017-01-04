@@ -7,6 +7,7 @@ description: "Colorado is a beautiful place, but it is easy to get caught up in 
 <ul class="article-list">
   {% for post in paginator.posts %}
     <li class="article-list-item reveal">
+      <div class="topo-thumb"><img src="/assets/{{ post.sq_featured }}" /></div>
       <a href="{{ post.url | relative_url }}" title="{{ post.title }}">
         <h5>
           {{ post.title }}

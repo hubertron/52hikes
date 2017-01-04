@@ -156,3 +156,43 @@ img {
  nav .subhead {
   clear: both;
 }
+
+
+.topo-thumb {
+  display: block;
+  float: left;
+  width: 130px;
+  height: 100px;
+
+
+  img {
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin: 0 20px 0 10px;
+  }
+
+}
+
+@include breakpoint(small) {
+  .topo-thumb {
+    display: inline-block;
+    float: left;
+    width: 110px;
+    height: 100px;
+    margin-top: 10px;
+
+
+
+  img {
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin: 0 10px 0 0;
+    
+  }
+
+}
+  
+  
+}

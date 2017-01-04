@@ -31,6 +31,7 @@ social:
 
 # Important settings (change at own risk)
 
+
 assets:
   compress:
     css: true

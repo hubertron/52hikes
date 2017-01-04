@@ -3,6 +3,7 @@ layout: post
 title: " Mount Galbraith Trail | Hike 1"
 description: "Starting the year off right with a 52 degrees and sunny hike in January."
 og_image: "week1/viewtodenver.jpg"
+sq_featured: "week1/trail_topo_square.png"
 tags: [frontrange]
 ---
 
@@ -22,7 +23,7 @@ If I think about why, I can make a hundred excused (too busy, new puppy, work, e
 
 {% include image.html path="week1/trail_topo.png" path-detail="week1/trail_topo.png" alt="Mount Galbraith Topo" %}
 {% include image.html path="week1/trail_profile.png" path-detail="week1/trail_profile.png" alt="Mount Galbraith Profile" %}
-
+{% include image.html path="week1/trail_topo_square.png" path-detail="week1/trail_topo_square.png" alt="Mount Galbraith Profile" %}
 
 
 ## About The Hike
