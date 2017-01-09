@@ -1,14 +1,15 @@
 ---
 title: " Mount Galbraith Trail | Hike 1"
-description: "Starting the year off right with a 52 degrees and sunny hike in January."
-og_image: "week1/viewtodenver.jpg"
-sq_featured: "week1/trail_topo_square.png"
-tags: [frontrange]
+date: '2017-01-02 00:00:00'
+description: Starting the year off right with a 52 degrees and sunny hike in January.
+og_image: week1/viewtodenver.jpg
+sq_featured: week1/trail_topo_square.png
+tags:
+- frontrange
 distance: 4
 gain: 900
-time: 1:45
+time: 105.0
 speed: 2.3 mph (Icy)
-
 ---
 ## Why  52 Hikes
 
