@@ -24,9 +24,8 @@ If I think about why, I can make a hundred excuses (too busy, new puppy, work, e
 **Total Moving Time:** {{  page.time  }} minutes<br />
 **Average Speed:** {{  page.speed  }}<br />
 
-{% include image.html path="week1/trail_topo.png" path-detail="week1/trail_topo.png" alt="Mount Galbraith Topo" %}
+{% include image.html path="week1/trail_topo_square.png" path-detail="week1/trail_topo_square.png" alt="Mount Galbraith Topo" %}
 {% include image.html path="week1/trail_profile.png" path-detail="week1/trail_profile.png" alt="Mount Galbraith Profile" %}
-
 
 ## About The Hike
 
