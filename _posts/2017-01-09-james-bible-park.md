@@ -1,13 +1,15 @@
 ---
+title: James Bible Park | Hike 2
+date: '2017-01-09 00:00:00'
 layout: post
-title: "James Bible Park | Hike 2"
-description: "A snowy hike just south of the city center. "
-og_image: "week2/topo.jpg"
-sq_featured: "week2/topo.jpg"
-tags: [denvermetro]
+description: 'A snowy hike just south of the city center. '
+og_image: week2/topo.jpg
+sq_featured: week2/topo.jpg
+tags:
+- denvermetro
 distance: 2.6
 gain: 59
-time: 1:00
+time: 60.0
 speed: 2.8 mph (Icy)
 ---
 
