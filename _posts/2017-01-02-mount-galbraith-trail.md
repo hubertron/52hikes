@@ -5,6 +5,10 @@ description: "Starting the year off right with a 52 degrees and sunny hike in Ja
 og_image: "week1/viewtodenver.jpg"
 sq_featured: "week1/trail_topo_square.png"
 tags: [frontrange]
+distance: 4
+gain: 900
+time: 1:45
+speed: 2.3 mph (Icy)
 ---
 
 ## Why Hike
@@ -16,14 +20,14 @@ If I think about why, I can make a hundred excused (too busy, new puppy, work, e
 
 ## Trail Details
 
-**Total Distance:** 4 miles <br />
-**Total Elevation Gain:** 900 feet<br />
-**Total Moving Time:** 1 hour 45 minutes<br />
-**Average Speed:** 2.3 mph (Icy)<br />
+**Total Distance:** {{ page.distance }} miles <br />
+**Total Elevation Gain:** {{  page.gain  }} feet<br />
+**Total Moving Time:** {{  page.time  }} minutes<br />
+**Average Speed:** {{  page.speed  }}<br />
 
 {% include image.html path="week1/trail_topo.png" path-detail="week1/trail_topo.png" alt="Mount Galbraith Topo" %}
 {% include image.html path="week1/trail_profile.png" path-detail="week1/trail_profile.png" alt="Mount Galbraith Profile" %}
-{% include image.html path="week1/trail_topo_square.png" path-detail="week1/trail_topo_square.png" alt="Mount Galbraith Profile" %}
+
 
 
 ## About The Hike

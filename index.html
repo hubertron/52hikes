@@ -1,8 +1,9 @@
 ---
 layout: default
 title: "52 hikes in 52 weeks"
-description: "Colorado is a beautiful place, but it is easy to get caught up in the rat race. In 2017 I hope to tackle 52 hikes mostly within an hour of the Denver area. Follow me on my journey here."
+
 ---
+
 
 <ul class="article-list">
   {% for post in paginator.posts %}
@@ -10,7 +11,8 @@ description: "Colorado is a beautiful place, but it is easy to get caught up in 
       <div class="topo-thumb"><img src="/assets/{{ post.sq_featured }}" /></div>
       <a href="{{ post.url | relative_url }}" title="{{ post.title }}">
         <h5>
-          {{ post.title }}
+          {{ post.title }} 
+
           <span class="icon icon-ios-arrow-thin-right"></span>
         </h5>
       </a>
@@ -21,12 +23,14 @@ description: "Colorado is a beautiful place, but it is easy to get caught up in 
         </span>
         <span class="article-list-divider">-</span>
         <span class="article-list-minutes">
-          {% capture words %}
+          <!-- {% capture words %}
             {{ post.content | number_of_words }}
           {% endcapture %}
           {% unless words contains "-" %}
             {{ words | plus: 250 | divided_by: 250 | append: " minute read" }}
-          {% endunless %}
+          {% endunless %} -->
+
+          {{ post.distance }} miles
         </span>
         <span class="article-list-divider">-</span>
         <div class="article-list-tags">
