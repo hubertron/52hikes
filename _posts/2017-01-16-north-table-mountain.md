@@ -1,8 +1,9 @@
 ---
-title: "North Table Mountain | Hike 3"
+title: North Table Mountain | Hike 3
 date: '2017-01-16 00:00:00'
 layout: post
-description: A longer hike on a cold day. The longest yet with the puppy. Easy drive from Golden. Great times.
+description: A longer hike on a cold day. The longest yet with the puppy. Easy drive
+  from Golden. Great times.
 og_image: week3/dog.jpg
 sq_featured: week3/topo.png
 tags:
