@@ -14,7 +14,7 @@ speed: 2.8 mph (Icy)
 ---
 
 
-## Trail Details
+### Trail Details
 
 **Total Distance:** {{ page.distance }} miles <br />
 **Total Elevation Gain:** {{  page.gain  }} feet<br />
@@ -26,7 +26,7 @@ speed: 2.8 mph (Icy)
 
 
 
-## About The Hike
+### About The Hike
 
 We got quite a few inches of snow right before this hike so I didn't want do a hike up in the hills for fear of ice, mud and generally disagreeable trail conditions. This park is south south Denver I never had a chance to check out. It's a pretty typical Denver park - ballfields, lots of dogs and a river running through it. The big highlight of this trip however was that we saw a Coyote on the trail ahead of us maybe 100 yards. Of course I tried to get a photo but given the distance and the coyotes camouflage he ended up being well hidden from the camera.
 

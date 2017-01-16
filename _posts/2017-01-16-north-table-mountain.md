@@ -15,7 +15,7 @@ speed: 2.9 mph
 ---
 
 
-## Trail Details
+### Trail Details
 
 
 **Total Distance:** {{ page.distance }} miles <br />
@@ -26,7 +26,7 @@ speed: 2.9 mph
 {% include image.html path="week3/topo.png" path-detail="week3/topo.png" alt="North Table Mountain Topo Map" %}
 {% include image.html path="week3/profile.png" path-detail="week3/profile.png" alt="North Table Mountain Profile Map" %}
 
-## About The Hike
+### About The Hike
 
 This was a bit of an impromptu hike for me. I was gonna head up to the mountains for a day of skiing but given that it was Martin Luther King Jr's day the traffic was insane. So instead I decided to grab the puppy, who isn't so young anymore and take him for his first long hike.
 
