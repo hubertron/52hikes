@@ -46,7 +46,7 @@ It was a pretty easy hike, but once we broke above the treeline for the final pu
 
 {% include image.html path="week5/to_the_sun.jpg" path-detail="week5/to_the_sun.jpg" alt="Chief Mountain Sun" %}
 
-Once we got to the top, I hid behind some rocks to stay out of the wind took to take in the view.
+Once we got to the top, I hid behind some rocks to stay out of the wind and took some time to take in the view.
 
 {% include image.html path="week5/view.jpg" path-detail="week5/view.jpg" alt="Chief Mountain Trailhead" %}
 
